@@ -12,7 +12,7 @@
   <a href="https://nerajlal.gecnoguru.com/">
     <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=EF93C4" alt="Portfolio">
   </a>
-  <a href="https://github.com/nerajlal">
+  <a href="https://github.com/mohanram154">
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/nerajlal/">
