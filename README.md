@@ -45,7 +45,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Neraj Lal**, a Full Stack Developer focused on building modern web applications, Shopify apps, SaaS products, and AI-powered solutions.
+I'm **Mohan Ram**, a Full Stack Developer focused on building modern web applications, Shopify apps, SaaS products, and AI-powered solutions.
 
 I enjoy taking an idea from **concept → architecture → development → deployment → production**.
 
