@@ -1,6 +1,6 @@
 <div align="left">
 
-<img align="right" src="./img.png" width="250" hspace="15" alt="Neraj Lal">
+<img align="right" src="./img.png" width="250" hspace="15" alt="Mohan Ram">
 
 <h1>Hey there, I'm Mohan Ram 👋</h1>
 
@@ -9,13 +9,13 @@
 </a>
 
 <p>
-  <a href="https://nerajlal.gecnoguru.com/">
+  <a href="https://mohanram154.gecnoguru.com/">
     <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=EF93C4" alt="Portfolio">
   </a>
   <a href="https://github.com/mohanram154">
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/nerajlal/">
+  <a href="https://www.linkedin.com/in/mohanram154/">
     <img src="https://www.linkedin.com/in/mohan-ram-199738326/" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/techbyneraj/">
@@ -24,13 +24,13 @@
 </p>
 
 <p>
-  <a href="https://github.com/nerajlal?tab=followers">
-    <img src="https://img.shields.io/github/followers/nerajlal?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
+  <a href="https://github.com/mohanram154?tab=followers">
+    <img src="https://img.shields.io/github/followers/mohanram154?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
   </a>
-  <a href="https://github.com/nerajlal?tab=repositories">
-    <img src="https://img.shields.io/github/stars/nerajlal?style=for-the-badge&label=STARS&color=F8BBD0&labelColor=161B22" alt="GitHub stars">
+  <a href="https://github.com/mohanram154?tab=repositories">
+    <img src="https://img.shields.io/github/stars/mohanram154?style=for-the-badge&label=STARS&color=F8BBD0&labelColor=161B22" alt="GitHub stars">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=nerajlal&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=mohanram154&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
 </p>
 
 <br clear="both">
@@ -76,9 +76,9 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohanram154/mohanram154/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohanram154/mohanram154/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/mohanram154/mohanram154/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
 </picture>
 
 </div>
@@ -88,5 +88,5 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Shipping&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
 <br>
-<sub><b>© Neraj Lal</b> · Full Stack Developer · Shopify · AI · SaaS</sub>
+<sub><b>© Mohan Ram</b> · Full Stack Developer · Shopify · AI · SaaS</sub>
 </div>
