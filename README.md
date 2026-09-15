@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/mohanram154/">
     <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=EF93C4" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/techbyneraj/">
+  <a href="https://www.instagram.com/_mohann_7?stkn=MXR3Y3lxZDl5M3Br">
     <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=FF69B4" alt="Instagram">
   </a>
 </p>
