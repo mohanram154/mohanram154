@@ -1,6 +1,6 @@
 <div align="left">
 
-<img align="right" src="ChatGPT Image Sep 14, 2026, 05_53_25 PM.png" width="250" hspace="15" alt="Mohan Ram">
+<img align="right" src="ChatGPT Image Sep 15, 2026, 09_31_18 PM.png" width="250" hspace="15" alt="Mohan Ram">
 
 <h1>Hey there, I'm Mohan Ram 👋</h1>
 
