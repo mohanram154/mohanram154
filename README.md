@@ -57,7 +57,7 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 - ⚡ Laravel, PHP, JavaScript & React
 - 🐍 Exploring Python & Django
 
-> **Build things. Break things. Learn things. Ship things.**
+> **Build things. Break things. Learn things.**
 
 </td>
 <td width="35%" align="center" valign="middle">
