@@ -62,7 +62,7 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,django,javascript,typescript,react,nextjs,nodejs,shopify,mysql,redis,docker,git,github,linux,nginx&perline=5&theme=dark" width="100%" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=php,java,laravel,python,django,javascript,typescript,react,nextjs,nodejs,shopify,mysql,redis,docker,git,github,linux,nginx&perline=5&theme=dark" width="100%" alt="Tech stack">
 
 </td>
 </tr>
