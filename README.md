@@ -55,7 +55,6 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 - 🏗️ SaaS & Multi-Tenant Applications
 - ☁️ Cloud Deployment & Server Management
 - ⚡ Laravel, PHP, JavaScript & React
-- 🐍 Exploring Python & Django
 
 > **Build things. Break things. Learn things.**
 
