@@ -51,7 +51,6 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 
 - 🚀 Full Stack Web Development
 - 🛍️ Shopify App Development
-- 🤖 AI & LLM Integrations
 - 🏗️ SaaS & Multi-Tenant Applications
 - ☁️ Cloud Deployment & Server Management
 - ⚡ Laravel, PHP, JavaScript & React
