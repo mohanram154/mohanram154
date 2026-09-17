@@ -45,7 +45,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Mohan Ram**, a Full Stack Developer focused on building modern web applications, Shopify apps, SaaS products, and AI-powered solutions.
+I'm **Mohan Ram**, a Full Stack Developer focused on building modern web applications, Shopify apps and SaaS products
 
 I enjoy taking an idea from **concept → architecture → development → deployment → production**.
 
