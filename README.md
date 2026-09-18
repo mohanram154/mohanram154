@@ -3,7 +3,7 @@
 <img align="right" src="ChatGPT Image Sep 15, 2026, 09_31_18 PM.png" width="250" hspace="15" alt="Mohan Ram">
 
 <h1>Hey there, I'm Mohan Ram 👋</h1>
-<h1>Wanna Know Me !</h1>
+ 
 
 <a href="https://github.com/mohanram154">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%7C+Shopify+Specialist;JAVA+%26+SPRINGBOOT+Integrations;Building+SaaS+%26+Production+Web+Apps;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
