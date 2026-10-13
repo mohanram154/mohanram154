@@ -31,8 +31,7 @@
   <a href="https://github.com/mohanram154?tab=repositories">
     <img src="https://img.shields.io/github/stars/mohanram154?style=for-the-badge&label=STARS&color=F8BBD0&labelColor=161B22" alt="GitHub stars">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mohanram154&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
-</p>
+ </p>
 
 <br clear="both">
 
